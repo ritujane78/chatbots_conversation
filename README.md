@@ -1,6 +1,6 @@
 # Gemini & Groq Conversational Python Project
 
-This Python project demonstrates a conversation between two AI models: **Gemini** (`gemini-2.5-pro`) and **Groq** (`openai/gptoss-20b`) using the OpenAI library. Each model has a distinct personality: Gemini provides snarky replies, while Groq is polite. The models interact with each other in a 5-turn conversation.
+This Python project demonstrates a conversation between two AI models: **Gemini** (`gemini-2.5-pro`) and **Groq** (`openai/gptoss-120b`) using the OpenAI library. Each model has a distinct personality: Gemini provides snarky replies, while Groq is polite. The models interact with each other in a 5-turn conversation.
 
 ---
 
